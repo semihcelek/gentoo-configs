@@ -1,0 +1,13 @@
+dev-db/sqlite -icu
+# required by app-misc/neofetch-6.0.0::gentoo[X]
+# required by neofetch (argument)
+>=www-client/w3m-0.5.3_p20180125 imlib
+# required by kde-plasma/kwin-5.19.5-r1::gentoo
+# required by kde-plasma/plasma-desktop-5.19.5::gentoo
+# required by kde-plasma/plasma-meta-5.19.5::gentoo
+# required by kde-plasma/plasma-meta (argument)
+>=media-libs/mesa-20.1.10 wayland
+# required by dev-python/PyQtWebEngine-5.14.0::gentoo
+# required by app-text/calibre-4.22.0::gentoo[python_single_target_python3_7]
+# required by app-text/calibre (argument)
+>=dev-python/PyQt5-5.14.2-r1 webchannel

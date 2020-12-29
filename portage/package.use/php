@@ -1,0 +1,1 @@
+dev-lang/php  cgi apache2 fpm cli json mysql mysqli postgres sqlite ssl sockets tokenizer xml curl 

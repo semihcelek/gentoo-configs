@@ -1,0 +1,29 @@
+kde-misc/colord-kde ~amd64
+app-editors/sublime-text ~amd64
+media-sound/deadbeef ~amd64
+net-im/zoom ~amd64
+www-apps/hugo ~amd64
+media-video/webcamoid ~amd64
+media-libs/libuvc ~amd64
+media-video/apple_facetimehd_firmware ~amd64
+media-video/bcwc_pcie ~amd64
+media-video/v4l2loopback ~amd64
+app-mobilephone/adb-sync ~amd64
+net-im/discord-bin ~amd64
+games-util/steam-launcher ~amd64
+games-util/steam-meta ~amd64
+www-client/firefox ~amd64
+dev-libs/nss ~amd64
+
+net-misc/youtube-dl ~amd64
+media-video/obs-studio ~amd64
+
+#overlays
+app-editors/vscodium-bin ~amd64
+dev-games/godot ~amd64
+
+app-text/pandoc ~amd64
+dev-haskell/aeson ~amd64
+dev-haskell/aeson-pretty ~amd64
+dev-haskell/* ~amd64
+
